@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 😄 🌸
 
-<!--
-**caitlinlamirez/caitlinlamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! My name is Caitlin Lamirez (She/Her), and I am an aspiring software engineer. I have a passion for creating innovative solutions to complex problems, and I am always looking for ways to improve my skills and knowledge in the field of computer science. I currently am a Computer Science major working on my Bachelor's Degree at Lewis University. I do have a background in nursing, and I would love to combine my background in nursing and computer science to create innovative solutions that positively impact society!
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
+I am currently working on a project that is focused on developing a computer vision system in Python that can detect the American Sign Language (ASL) alphabet using machine learning and OpenCV. The goal is to create a model that can recognize the signs made by a user and translate them into corresponding letters.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Overall, I am very excited to combine my interests in machine learning and computer vision to create a practical application that can help bridge communication barriers for the deaf and hard-of-hearing community 😄
+
+## 🌱 I’m currently learning
+Currently, I am focused on two main areas of learning: machine learning and full stack development. In addition to learning more about machine learning from the ASL detection project, I am also taking the IBM Full Stack Developer course on Coursera. This course provides a comprehensive overview of the skills and tools needed to become a full stack developer, including front-end web development, back-end development, cloud computing, and databases. 
+
+
